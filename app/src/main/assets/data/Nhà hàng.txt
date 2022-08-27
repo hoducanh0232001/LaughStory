@@ -1,0 +1,139 @@
+Mỗi năm 2 lần
+Vị bếp trưởng tâm sự với các đầu bếp khác:
+
+- Mỗi năm một tiệm ăn chỉ được phép tối đa 2 vụ ngộ độc thức ăn. Từ đầu năm chúng ta mới chỉ để xẩy ra có một vụ mà hôm nay là ngày cuối năm rồi. Thế nên hôm nay, cho cậu Z vào thử việc.
+
+
+','0');
+Tình đồng nghiệp
+Trong một tiệm ăn, người khách giật mình khi nhìn thấy số tiền ghi trong hóa đơn thanh toán. Ông nói với người phục vụ:
+
+- Những 300 đôla cho bữa ăn đạm bạc này ư? Này anh bạn, hãy nể tình đồng nghiệp mà giảm bớt tiền cho tôi chứ?
+
+- Thế ra ông cũng làm việc ở tiệm ăn à?
+
+- Không phải. Tôi làm nghề ăn cắp!
+
+
+','0');
+Ông chủ đâu?
+Người đến xin việc hỏi anh bồi:
+
+- Cửa hàng này có cần người cực khỏe để đuổi những thực khách quá chén không?
+
+- Cần chứ! Nhưng trình độ của anh tới đâu?
+
+- Chàng xin việc liền tiến lại bàn đầu, tóm ngay một người đàn ông béo phệ và ném vèo qua cửa sổ.
+
+- Thấy chưa? Ý kiến của anh thế nào?
+
+- Xuất sắc! Đợi ông chủ quán vào sẽ nói chuyện với anh.
+
+- Ông ta đi đâu vậy?
+
+- Vừa bị anh ném ra ngoài.
+
+
+','0');
+Người thứ 100
+Người đàn ông nọ kiên nhẫn ngồi chờ trước cửa một tiệm ăn có treo bảng khuyến mãi: 'Miễn phí và tặng quà có giá trị cho người khách may mắn thứ 100'. Sau khi cần mẫn đếm tới người thứ 99, ông ta mới bước vào. Ăn xong, người đàn ông vui vẻ nói với chủ tiệm:
+
+- Tôi là người khách may mắn phải không?
+
+- Đâu có! Ông chỉ là người khách đầu tiên!
+
+- Thế còn những người vào trước?
+
+- Họ vào chỉ để hỏi đến người khách thứ bao nhiêu rồi!
+
+
+','0');
+Không có kem
+Một người đàn ông đi vào quán cà fê và bảo cô bồi bàn :
+
+- Cho tôi 1 ly cà fê không có kem nhé !
+- Vài phút sau, cô bồi bàn quay lại và nói: Thưa ông, chúng tôi hết kem rồi. Ông có thể dùng tạm 1 ly cà fê không có sữa được không ạ ?
+
+
+','0');
+Xưng hô đúng cách
+Trong một quán thịt chó cuối tháng, một ông khách sành ăn phàn nàn với chủ quán:
+
+- Này ông chủ, con chó này thế nào mà vừa già vừa cứng, ăn gãy cả răng!
+
+- Chủ quán quay ra mắng: Anh kia, ăn nói phải có lễ phép một chút chứ, không được hỗn!
+
+- Ông khách rất bực mình, bèn vặc lại: Ông bảo ai hỗn? Mọi người xem tôi nói có sai không nào?
+
+- Lúc này, chủ quán mới lên tiếng: Anh phải gọi là 'cụ chó' chứ!
+
+
+','0');
+Khẳng định chất lượng
+Một ông khách gọi:
+
+- Phục vụ bàn! Có con ruồi chết trong đĩa xúp của tôi.
+
+- Thưa ông, điều đó chứng tỏ xúp của chúng tôi mới nấu, còn rất nóng. Con ruồi vừa sa vào đã chết ngay.
+
+
+','0');
+Vẫn không có
+Một ông khách gọi phục vụ bàn và bảo:
+
+- Này tôi chẳng thấy lát giăm bông trong chiếc bánh mì kẹp nhân này đâu cả.
+
+- Lạ nhỉ, ông thử cắn miếng nữa xem sao.
+
+- Ông khách cắn miếng bánh nữa và nói: Không, vẫn không thấy giăm bông.
+
+- Thế thì ông cắn quá chỗ có giăm bông mất rồi.
+
+
+','0');
+Đắt vì chương trình video hiếm có
+Một tù trưởng da đỏ thuê phòng ở khách sạn tại New York. Lễ tân cho biết:
+
+- Chúng tôi có hai loại phòng, 40 USD và 100 USD.
+
+- Hai loại phòng khác nhau ở điểm nào?
+
+- Trong phòng loại 100 USD có chương trình video nói về sự chiến thắng của người da đỏ.
+Nịnh khách
+Trong nhà hàng, một bà già đỏm dáng cao giọng gọi:
+
+- Cho món gà quay nhé!
+
+- Có ngay, thưa bà!
+
+- Gà còn non không đấy?
+
+- Thưa, không được như bà đâu ạ!
+
+
+','0');
+Lần đầu tiên
+Người khách bước vào một nhà hàng có tấm bảng lớn: 'Sẽ trả 500 USD nếu không thoả mãn được yêu cầu của quý vị'.
+
+- Khi người phục vụ hỏi ông khách muốn dùng gì, ông ta trả lời: Cho tôi một cái đuôi voi dùng với bánh mì lúa mạch đen.
+
+- Một lát sau, chủ nhà hàng chạy ra đến gần bàn khách và đập 5 tờ 100 USD xuống bàn: Lần này thì anh thắng, nhưng tôi muốn cho anh biết đây là lần đầu tiên trong mười năm qua, chúng tôi hết bánh lúa mạch đen.
+
+
+','0');
+Sơ cứu
+Trung tâm cấp cứu nhận được một cú điện thoại:
+- Alô! cho một xe cáp cứu đến ngay khách sạn H, tại bàn tính tiền có một khách hàng bị ngất!
+- Bác sĩ trực trả lời: À,ca này thường gặp thôi! Trong lúc đợi hãy làm những động tác sơ cứa sau:
+- Bước 1: Gỡ ngay hoá đơn tính tiền ra khỏi tay khách hàng.
+- Bước 2: Đặt khách hàng yên tĩnh trong một phòng hạng 3.
+- Bước 3: Dùng tấm biển đại hạ giá đặt trước mặt khách hàng.
+
+
+','0');
+Vỏ quýt dày gặp móng tay nhọn
+Anh chàng vô địch môn đấm bốc vào một nhà hàng. Khi anh ta treo áo khoác lên, sau lưng áo lủng lẳng một mảnh bìa, ghi rõ:
+
+- Chiếc áo này là của nhà vô địch môn đấm bốc, anh ta sẽ quay lại mặc nó ngay bây giờ!
+
+- Lúc ăn xong trở ra, anh ta không thấy chiếc áo nữa, chỉ còn lại một mẩu giấy với dòng chữ: Người lấy chiếc áo là nhà vô địch môn chạy 100 m, anh ta sẽ không quay trở lại đây nữa!','0');

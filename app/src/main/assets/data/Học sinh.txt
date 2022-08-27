@@ -1,0 +1,1216 @@
+Lấy ở đâu ra? 
+Trong buổi thi tốt nghiệp trường hàng hải, giáo sư hỏi thi một thí sinh:  
+- Nếu cơn bão đến từ phía bên phải con tàu thì anh sẽ làm gì?  
+- Tôi sẽ thả neo.  
+- Từ phía mũi tàu?  
+- Tôi thả neo thứ hai.  
+- Từ phía đuôi tàu?  
+- Tôi thả cái neo nữa.  
+- Anh lấy ở đâu ra nhiều neo thế?  
+- Thế thầy lấy ở đâu ra mà nhiều bão như vậy? 
+','0');
+Quả nhiều C 
+- ĐĐ: Bà có biết quả nào có nhiều “C” ko? 
+ - TVH: Quả cóc! 
+ - ĐĐ: Why? 
+ - TVH: Vì cóc có hai chữ “C” lận mà. 
+','0');
+Bó tay 
+- Hùng: Thằng Nam giỏi toán nhất lớp tớ mà nó cũng phải chịu bó tay trước đề toán đấy! 
+ - Hạnh: Đề toán khó đến thế ư? 
+ - Hùng: Không! Dễ lắm nhưng vì nó bị bó bột nên không viết được. 
+','0');
+Đường hàng không 
+- Thầy: Bệnh sốt xuất huyết lây qua đường nào vậy hả Quỷnh? 
+ - Quỳnh: Dạ, thưa thầy, qua...đường hàng không ạ 
+ - Thầy: Sao lại qua đường đó? 
+ - Quỳnh: Vì muỗi vằn sau khi chích hút máu xong bay đi truyền bệnh từ người này sang người khác ạ. 
+','0');
+Đứa con tinh thần 
+Một sinh viên đến nhà thày giáo dạy văn. Ông thày đưa cho anh hai bài thơ do mình mới sáng tác và nói:  
+ - Đây là đứa con tinh thần của tôi, anh đọc và cho ý kiến là thích đứa con nào?  
+ - Đúng lúc ấy, cô con gái của thày từ trong phòng đi ra, anh sinh viên trông thấy liền nói:  
+ - Thưa thày, em chỉ thích đứa con vật chất của thầy thôi ạ. 
+','0');
+Sai giống nhau 
+Thầy giáo nói với một bà mẹ học sinh : 
+- Thưa bà, tôi rất lấy làm tiếc phải thông báo cho biết là con trai bà đã nhìn vào vở của bạn khi tôi ra bài làm trên lớp, con bà đã chép bài của bạn. 
+- Dạ, thầy nói gì tôi chưa hiểu. 
+- Vì cả hai đứa mắc những lỗi giống nhau. 
+- Thưa thầy, có thể là đứa bạn kia đã chép bài của con trai tôi… 
+- Thưa bà, đáng tiếc không phải như vậy. Tôi đã ra câu hỏi: “Các em có biết vị trí của quần đảo Acores không ?, đứa bạn của con bà đã ghi: “Em không biết” và con trai bà ghi :”Em cũng thế!” 
+','0');
+Thay đổi lịch sử 
+Trong giờ Sử, cô thấy Bư đang nói chuyện.  
+- Bư, em hãy cho cô biết: Ai là người làm thay đổi bộ mặt lịch sử Việt Nam ở giai đoạn Trịnh – Nguyễn suy vong.  
+- Thưa… nhà viết sử 
+','0');
+Hay thế còn gì 
+Bi đang cầm quyển “Thơ ca” trên tay , nhăn nhó với Tài . 
+- Bi nói: Tại sao bài thơ tớ gởi không được đăng nhỉ ? 
+- Tài: Chắc tại dở quá chứ gì! 
+- Bi: Không, hay lắm cơ. Tớ chép y như thơ của ông Trần Đăng Khoa đấy còn gì! 
+- Tài: Hết nói !!! 
+','0');
+Miễn thi 
+Trước kỳ thi học kỳ 
+- Tí: Sao hôm nay mày buồn vậy? 
+- Tèo: Thầy bảo tao được miễn thi môn Tóan. 
+- Tí: Vậy thì vui chớ sao buồn? 
+- Tèo: Miễn thi là ko được thi đó. 
+- Tí: Trời!! 
+','0');
+Biển 
+Trong giờ địa lý , thấy Tí ngồi không chú ý bài 
+ - Cô giáo: Tí! Hãy cho cô biết biển là gì? 
+ - Tí (giật mình): Thưa cô! “Biển” là bài thơ của Xuân Diệu ạ! 
+ - Cô giáo: ?!? 
+','0');
+Sai một câu 
+Ra khỏi phòng thi… 
+ - A: Lúc nãy cậu làm bài ra sao? 
+ - B: Tao sơ ý làm sai 1 câu. Buồn quá! 
+ - A: Làm sai 1/10 câu là tốt rồi. Chắc cậu sẽ 9 điểm đấy! 
+ - B: Thôi đi! Vì trong bài làm của tớ, tớ chỉ giải 1 câu thôi. 
+ - A: !!! 
+','0');
+Chép phạt 
+Bài của H.A mắc nhiều lỗi chính tả, thầy giáo phạt bằng cách bắt cô viết 12 lần câu “Vào lớp thuộc bài, ra lớp hiểu bài” 
+- Hôm sau, HA mang vở đến nộp. Thầy: Sao em chỉ viết có sáu lần? 
+- H.A: Thưa thầy , em kém cả môn tính nữa ạ! 
+- Thầy: ?!?! 
+','0');
+Làm bài cho kịp 
+- Thầy: Tục ngữ có câu: “Có công mài sắt có ngày nên kim”. Các trò về suy nghĩ, phân tích và lấy ví dụ thực hành mai nộp cho thầy. 
+ - Thầy: Cò! Em làm gì vậy ? 
+ - Cò: Thưa thầy. Con đang mài cây sắt để kịp ngày mai nộp cho thầy cái kim ạ. 
+','0');
+Giải quyết mọi thắc mắc 
+Sau giờ địa lý, thầy hỏi:  
+- Em nào còn thắc mắc về bài giảng hôm nay, cứ hỏi!  
+Một học sinh giơ tay:  
+- Thưa thầy, vì sao trái đất lại quay quanh mặt trời ạ?  
+- Ờ... - Thầy cười hóm hỉnh - Thế mới tài! Còn gì nữa không?  
+- Thôi... ạ. 
+','0');
+Việc học 
+Lúc bé, nghỉ học là chuyện lạ. Lớn lên mới biết, chuyện lạ là đi học.  
+Lúc bé, tưởng đến trường là phải học. Lớn lên mới biết, đến trường còn được ngủ.  
+Lúc bé, tưởng thi xong là hết. Lớn lên mới biết , sau thi còn có thi lại.  
+Lúc bé , tưởng điểm 10 mới là giỏi. Lớn lên mới biết, chỉ 5 thôi đã quý lắm rồi.  
+Lúc bé, tưởng càng học càng giỏi....  
+Lớn lên mới biết, càng học càng ngu 
+','0');
+Xấu xí sẽ làm gì? 
+Trong lớp học, cô giáo hỏi Enna:  
+- Ước mơ của em sau này là gì Enna?  
+- Thưa cô, nếu lớn lên xinh đẹp em sẽ làm diễn viên điện ảnh hay người mẫu, còn nếu xấu xí em sẽ làm cô giáo ạ! 
+','0');
+Trí nhớ 
+Một học sinh gần đến kỳ thi bỗng dưng bị bệnh, anh ta tới than với bác sĩ 
+ - S: Thưa bác sĩ trí nhớ của em hỏng mất rồi ạ! Em học đâu quên đó! 
+ - B: Trí nhớ của em suy giảm từ lúc nào? 
+ - S: Dạ vào 4h 5 phút 3 giây  ngày 25 tháng 10 cách đây 2 năm ạ 
+ - B: Trời!!! 
+','0');
+Nhường đường 
+Vị giáo sư nọ đang đi trong ngõ gặp một người cao to, ưỡn ngực:  
+- Tao không bao giờ nhường đường cho kẻ ngu.  
+- Vị giáo sư mỉm cười, nép vào bậc thềm: Còn tôi thì luôn làm như vậy. 
+','0');
+Liên tưởng 
+Trong giờ địa lý 
+- Cô: Em hãy cho biết Cát Bà là 1 nơi như thế nào? Minh, em hãy trả lời! 
+- Minh (đang mơ màng): Dạ, thưa cô, đó là 1 nơi có nhiều cát và toàn người già sinh sống ạ! 
+- Cô: !?! 
+','0');
+Sống trong thời kỳ nào? 
+- Nè, mày chép hoài của tao vậy không sợ giống nhau thầy trừ điểm à?  
+ - Yên tâm đi, bài của mày là "Ông sống trong thời kỳ xã hội đen tối!". Còn của tao là: "Ông sống trong thời kỳ xã hội đen!"  
+ - ??? 
+','0');
+Theo sách 
+Trong giờ hộc môn Địa… 
+ - Cô: Lan, em hãy nhìn SGK cho cô biết sông Hồng nằm ở đâu? 
+ - Lan: Thưa cô! Nằm ở…dòng thứ 6 trang 50 của sách Địa ạ! 
+','0');
+Biết là ai không? 
+Một sinh viên đến muộn giờ thi viết. Sau khi cố nài nỉ ông giám thị, cậu ta được chấp nhận vào thi với lời cảnh cáo nghiêm khắc rằng sẽ không nhận bài nộp trễ sau 5 phút.  
+- Hết giờ, cậu sinh viên kia lên nộp bài chậm 15 phút và bị giám thị từ chối thẳng thừng. Cậu vẫn gan lì tiến sát đến bàn giáo viên và hỏi: Thầy có biết em là ai không? 
+- Dĩ nhiên là không. 
+- Chẳng nhẽ thầy không nhớ nổi cả tên em ư? 
+- Không biết! Và tôi cũng chẳng cần phải biết em là ai. Ông thầy mỉa mai, không thèm nhìn cậu sinh viên. 
+- Vậy thì xin lỗi thày nhé! 
+- Cậu ta nhanh tay nhét bài của mình vào giữa xấp bài trên bàn và biến khỏi phòng. 
+','0');
+Định nghĩa các môn học 
+- Toán học  
+ Đây là môn học duy nhất không có sự bổ ích. Các bạn sẽ được học 1 + 1 = 2, điều mà một vài năm sau người ta lại nói lại 1 + 1 = 10 và nói cho bạn biết hệ nhị phân là gì. Người ta cũng dạy bạn vi phân, tích phân và nhiều thứ quan trọng khác nhưng nói chung, bạn vẫn phải dùng đến máy tính bỏ túi khi đi chợ.  
+ - Vật lý  
+ Môn học nghiên cứu sự rụng của táo và các loại quả khác. Bạn cũng có được học cách tính giờ tàu chạy và khi nào hai con tàu gặp nhau nếu chạy trên cùng một ... đường ray. Người học vật lý xong thường ít đi trồng táo hoặc đi tàu hoả.  
+ - Hoá học  
+ Môn học phải ghi nhớ những câu trả lời đúng và những bài thí nghiệm. Đổ một lọ này vào lọ kia, lắc hoặc khuấy, nhiều lúc phải đun lên, rồi cuối cùng đổ tất cả ra vườn, đó là thí nghiệm.  
+ - Sinh học  
+ Môn học nghiên cứu ruồi giấm và một số vật nuôi trong nhà khác. Tuy nhiên nếu ta hỏi một người lớn rằng "làm sao để có em bé" thể nào ta cũng được câu trả lời "có con cò mang em bé đến và đặt lên cửa sổ cho các bà mẹ".  
+ - Địa lý  
+ Môn này dạy bạn cách xem bản đồ và bạn phải chỉ ra châu Mỹ trên bản đồ thế giới. Đây có lẽ là môn mới mẻ nhất vì trước khi Christopher Columbus chưa tìm ra châu Mỹ, chắc chưa ai phải học môn này cả.  
+ - Lịch sử  
+ Các thầy giáo sẽ bắt bạn nhớ xem ai đã lật đổ một ông vua nào đó. Nhiều khi bạn phải nhớ ngày sinh của một ông hoàng bà chúa nào đó mặc dù ông ta không làm sinh nhật, mà bạn cũng chẳng cần phải nhớ để tặng quà.  
+ - Văn học  
+ Bạn sẽ phải đọc một quyển sách dày đến nỗi bạn chỉ kịp liếc qua cái tên của nó trước khi vào phòng thi. Sau khi học xong môn này, bạn sẽ có thể biết Huy Gô và Huy Cận không phải là hai anh em hay Xuân Diệu không phải là nhà buôn bút mặc dù ông ta sống bằng ngòi bút.  
+ - Triết học  
+ Triết học là 1 hiện tượng luận về hiện tượng mà đôi khi chúng ta luận về hiện tượng đó thì đúng là hiện tượng luận cho nên người ta mới gọi hiện tượng luận là luận về hiện tượng đó nhưng hiện tượng đó đôi khi không là hiện tượng luận nên luận về hiện tượng đó là hiện tượng luận.  
+ Nói chung các môn học có thể gói gọn lại thành 2000 tiết. Học trong 4 hoặc 5 năm. Trong đó 2 tiết thật sự là hữu ích (ví dụ, chỉ bật được quạt khi có điện) còn 1998 tiết còn lại là hoàn toàn vô nghĩa (ví dụ điện đã làm cho quạt quay như thế nào?). Tất cả những việc gì phải làm là chép những lời thầy giảng, nhớ chúng, chép chúng vào bài thi, rồi sau đó quên đi.  
+ Nếu ai chẳng may không thể quên được thì trở thành giáo viên và suốt đời không ra khỏi trường đại học.  
+ Mà học đại học là cứ học đại đi cho bằng bạn bằng bè. Chẳng lẽ bạn bè nó đi học đại học, mình lại chơi MU Online. 
+','0');
+Được khối tiền 
+- Ngọc: Bạn thấy kẹo lạc mình làm có ngon không? 
+- Hùng: Kẹo này mà bạn làm bán thì được khối tiền đấy! 
+- Ngọc: Bạn quá khen, hì…hì! 
+- Hùng: Bạn cứ để đây một cái biển “Ở đây nhổ răng bằng kẹo”chắc chắn sẽ rất đông khách đó! 
+- Ngọc: Hừ! Dám nói xỏ ta hả? 
+','0');
+Hiện tại và tương lai 
+- Mai: nhìn bạn là tôi đoán tương lai bạn sẽ là bậc thầy về sử dụng phao cứu sinh. 
+- Tùng: Vậy ư. 
+- Mai: Ừ thì cứ nhìn ông sử dụng phao trong giờ kiểm tra thì tui đoán ra ngay! 
+','0');
+Ánh sáng hay âm thanh? 
+Thí sinh đầu đi vô. Ông thầy hỏi:  
+- "Cái nào nhanh hơn, ánh sáng hoặc âm thanh ?"  
+- Đáp: "Tất nhiên là âm thanh !"  
+- Hỏi: "Căn cứ vào đâu ?"  
+- Đáp: "Khi em bật ti-vi lên... trước tiên em nghe được tiếng... sau đó mới thấy hình."  
+- Thầy: "Rớt. Mời thí sinh kế tiếp."  
+- Thí sinh kế đi vô và cũng bị hỏi y chang như vậy.  
+- Đáp: "Dĩ nhiên là ánh sáng!"  
+- Thầy (cảm thấy nhẹ nhõm khi nghe câu trả lời): "Em có thể giải thích tại sao không?"  
+- Đáp: "Khi em bật ra-đi-ô... em thấy cái đèn đi-ốt cháy sáng lên trước... sau đó mới nghe âm thanh."  
+- Thầy: "ĐI RA! Rớt! Kêu thí sinh cuối vô!"  
+- Lần này thầy giáo moi ra đèn pin và cái còi. Trước mặt học trò ông ta bật đèn và bấm còi cùng một lúc.  
+- Hỏi: "Em nhận được cái gì trước: ánh sáng hoặc âm thanh?"  
+- Đáp: "Ánh sáng."  
+- Hỏi: "Tại sao?"  
+- Đáp: "Dễ ợt! Đôi mắt con người nằm trước hai lỗ tai" 
+','0');
+Không dám phạt 
+Trong giờ học đạo đức, thầy giáo kể rằng tổng thống Mỹ Washington hồi nhỏ có lần đã chặt nhầm cây anh đào của bố, nhưng sau đó vẫn mạnh dạn nhận sai lầm của mình và được ông tha thứ. Kết thúc mẩu chuyện, thầy hỏi:  
+- Em nào có thể cho thầy biết, tại sao bố của Washington lại không phạt con mình?  
+- Cả lớp yên lặng suy nghĩ hồi lâu, cuối cùng Johny đứng dậy cả quyết: Thưa thầy, ông bố không dám phạt vì khi đó trong tay Washington vẫn còn cầm... cái rìu ạ. 
+','0');
+Không quen 
+- Thầy: Em có biết tác giả “truyện Kiều” là ai không? 
+- Tèo: Dạ, không ạ! 
+- Thầy: Em có biết Nguyễn Du là ai không? 
+- Tèo: Dạ, em không quen bạn ấy ạ! 
+','0');
+Chỉ lặp lại mà thôi 
+Một nhà văn trẻ than thở với bạn:  
+ - Lão Y. thật là tệ, sau khi phê bình từng câu, từng chữ trong cuốn truyện của tớ, ông ta kết luận tớ là kẻ bất tài!  
+ - Cậu đừng để ý đến ông ta làm gì, người ta vẫn bảo ông ta là con vẹt, chỉ chuyên lặp lại lời thiên hạ thôi mà. 
+','0');
+Mái tóc dài 
+Một mày râu hỏi một áo dài có mái tóc dài nhất lớp 
+ - MR: Con gái đang mốt tóc ngắn sao bà lại để tóc dài? 
+ - AD: Tôi muốn tóc dài đến bao giờ đỗ đại học sẽ cắt! 
+ - MR: Thế thì xin chúc mừng bà nha! 
+ - AD: Mừng cái gì? 
+ - MR: Bà sẽ được ghi vào kỷ luật “ghi nét” vì có mái tóc dài nhất thế giới đấy! 
+ - AD: Hả? 
+','0');
+Thí nghiệm thành công 
+Peter đi học về, bà hỏi:  
+ - Hôm nay cháu học gì?  
+ - Hôm nay chúng cháu làm thí nghiệm hóa học về chất nổ bà ạ.  
+ - Thế ngày mai?  
+ - Cháu chưa biết, còn phải chờ xây lại trường đã! 
+','0');
+1088 
+- Tú: Nam ơi! Cậu cho tớ cái ảnh của nhóm 1088 đi. 
+ - Nam: Ừ, chờ tí nữa vào lớp tớ đưa cho. 
+ - Trống vào học. 
+ - Tú: Ảnh của tớ đâu? 
+ - Nam: Đây này ! 1 anh, 0 văn, 8 sử, 8 hóa. Chả là 1088 là gì? 
+ - Tú: Trời!!! 
+','0');
+Đáp xoáy.. 
+- Cho tớ hỏi 1 câu được không?  
+- Bạn vừa hỏi rồi. 
+ - Vậy cho tớ hỏi 2 câu nhé! 
+ - Bạn lại vừa hỏi hết rồi. 
+ - Thế tớ hỏi 4 câu được không? 
+ - Bạn hỏi hết cả 4 câu rồi. 
+ - Mới có 3 mà, 4 đâu??? 
+ - Đó. 
+ -!!!! 
+','0');
+Rất thông cảm 
+- Con phải hiểu rằng bố rất kỳ vọng ở con. Nếu bài thi của con đạt điểm 10, bố sẽ thưởng con 50 ngàn đồng.  
+ - Bố cũng phải hiểu rằng con rất thông cảm với bố. Bố đừng nên tốn tiền vào những điều vớ vẩn đó! 
+','0');
+Trễ vì tai nạn 
+- Cô giáo : Tại sao em đi trễ! 
+ - Trò: Thưa cô , tại tai nạn giao thông. 
+ - Cô giáo: Em có bị gì không 
+ - Trò: Dạ…đâu có ạ! Em đứng coi mà cô. 
+ - Cô giáo: Hm 
+','0');
+Không chịu xuống… 
+Cô giáo gọi một học sinh lên bảng:  
+- Con hãy miêu tả một chú gà trống ở khu vườn…  
+Chú bé bắt đầu hồn nhiên:  
+- Buổi sáng, ông mặt trời thức dậy, toả những tia nắng ấm áp xuống vườn nhà em… 
+- Hay, hay… – có tiếng xuýt xoa ở dưới, cô giáo cười tươi.  
+- Chú gà trống đĩnh đạc ra giữa vườn, vươn cổ cất tiếng gáy vang động khắp nơi…  
+- Tuyệt vời…, thật tuyệt… – lại tiếng xuýt xoa.  
+- Sau đó chú nhảy lên lưng chị gà mái…  
+- Thôi, thôi, được rồi, xuống ngay, xuống ngay… – cô giáo đỏ mặt  
+- Em cũng nói thế nhưng chú gà trống nhà con đâu có chịu xuống đâu, thưa cô…? – chú bé vẫn hồn nhiên trả lời. 
+','0');
+Bình thường 
+A và B vừa ra khỏi phòng thi. 
+- A: Mày làm bài thế nào? 
+- B: Bình thường! 
+- A: “Bình thường” sao mặt bí xị vậy? 
+- B: Bởi vì bình thường của tao toàn điểm 1,2 ko à. 
+- A:!!!Hết biết 
+','0');
+Công ơn của thầy cô.. 
+Trong lớp học giờ đạo đức, thầy giáo đang giảng về công ơn của thầy cô. Thầy giáo hỏi cả lớp:  
+- Các em hãy cho thầy biết một câu tục ngữ về người thầy. Lớp im lặng. Thầy giáo mớm ý:  
+- Câu này có 2 chữ “mày” và “nên” Lớp vẫn im lặng. Thầy giáo lại mớm ý:  
+- Câu này có cả 2 chữ “không” và “đố” Lớp tiếp tục im lặng. Thầy giáo điên tiết:  
+- Câu này có 6 chữ, có cả 2 chữ “thầy” và “làm”. Ðây là câu gì? Cuối lớp có 1 cánh tay rụt rè giơ lên.  
+- Thưa thầy đó là câu “Làm thầy mày không nên đố” 
+','0');
+Thầy cũng như bố mẹ 
+- Thầy: Dưỡng phải đi đôi với dục bởi vậy thầy cũng như bố mẹ trò! Trò đã nhớ chưa? 
+- Quỳnh: Thưa thầy cũng như bố mẹ cho trò tiền ăn quà, thầy cũng như bố mẹ trò thầy cho tiền quà đi! 
+- Thầy: TRỜI!?! 
+','0');
+Chỉ làm một việc là nhanh 
+- Thầy: Sao em làm gì cũng chậm vậy? 
+ - Trò: Dạ đâu có ạ! 
+ - Thầy: Em có thể làm việc gì nhanh hơn không? 
+ - Trò: Dạ, thưa việc nhanh nhất là nhanh mệt ạ. 
+ - Thầy: Trời!! 
+','0');
+Di tích hóa thạch 
+Trong giờ họ Lịch sử, tèo đang lim dim ngủ.  
+Cô giáo gọi: Tèo, em hãy cho cô biết một di tích hóa thạch của nước ta.  
+- Tèo ú ớ đứng dậy: Thưa cô, đó là …nàng Tô Thị ạ! 
+','0');
+Ai không hiểu ai 
+Ba: Tại sao con lại điểm xấu? Con có hiểu câu hỏi của thầy giáo không?  
+Con: Dạ có ạ! Nhưng thầy giáo lại không hiểu câu trả lời của con. 
+','0');
+Môi trường chân không 
+Đang giảng bài, thấy Tèo say sưa nói chuyện, cô giáo gọi. 
+ - Cô giáo: Tèo, em hãy cho cô biết cô đang giảng bài gì? 
+ - Tèo: Dạ, cô giảng bài về môi không. 
+ Cô giáo: Thế, môi trường chân không là gì? 
+ - Tèo: Thưa cô, môi trường chân không là môi trường không có dép ạ! 
+ - Cô giáo : (té xỉu) 
+','0');
+Ba chàng nói khoác 
+Có 3 chàng sinh viên nói khóac nổi tiếng ở ba trường Đại học: Tổng Hợp, Bách khoa, Sư Phạm gặp nhau ở một quán nước. Sau một hồi hàn thuyên đủ thứ, ba chảng đều than thở về đời sống gian khổ của sinh viên. 
+ - Anh học ở Tổng Hợp bảo: Bữa cơm sinh viên trưởng tớ ngay cả ruồi nó cũng không thèm đụng vào. 
+ - Anh học Bách Khoa bảo tiếp luôn: Còn ở trưởng tớ thì ruồi cũng phải đánh nhau với sinh viên để tranh cướp từng hạt cơm. Lắm lúc những chú ruồi gầy còm đang nghẹn ngào nuốt những hạt cơm cứng như đá mà tớ thương quá . 
+ - Anh học Sư Phạm, suốt câu truyện chỉ im lặng nay mới lên tiếng :Trường của các cậu thế là còn khá lắm. Ở trường tớ ấy à, cứ vào nhà bếp sau bữa ăn nào thế nào cũng thấy vài chú ruồi đang nằm hấp hối trên những cái đĩa đã trơn bóng, mắt đầy lệ, miệng than thở: “Đói quá, đói quá” và sau đó thì tắt thở. 
+','0');
+Ham cá độ quá! 
+Phụ huynh lo lắng đề nghị thầy hiệu trưởng răn đe để con mình chừa cái thói ham cá độ. Tuần sau, có cú điện thoại cho ông bố:  
+ - Tôi vừa dạy cho thằng nhóc một bài học đắt giá về cá độ rồi đấy!  
+ - A, thầy làm tôi tò mò quá!  
+ - Hôm nay, nó dám bảo bộ râu của tôi là giả, tôi ra giá 5 bảng, cu cậu cắn câu ngay.  
+ - Nó có đòi kiểm tra râu của ông không?  
+ - Tôi cho nó giật thoải mái, sau đó phải tòi ra 5 bảng, chắc là cu cậu cạch đến già!  
+ - Thôi chết rồi! Sáng nay nó cá 10 bảng với tôi là sẽ tìm được cách giật râu của ông! 
+','0');
+Biện pháp mạnh 
+Tí qua rủ Tèo đi học. 
+- Tí: Tèo, giờ này sao chưa chuẩn bị đi học? 
+- Tèo: Tao phải đưa em tao ngủ. 
+- Tí: Vậy hả? Vậy nó ngủ chưa? 
+- Tèo: Chưa, nó khó ngủ lắm, chưa chịu ngủ 
+- Tí: Để tao hát ru cho nó ngủ nha? 
+- Tèo: Khoan! Mày phải dùng biện pháp nhẹ trước cái đã! 
+- Tí: (đầu bốc khói) 
+','0');
+Biết vâng lời 
+Cô giáo hỏi học trò:  
+ - Tháng nào em cũng đứng chót lớp, tại sao em không chịu ganh đua với bạn bè?  
+ - Thưa cô, cô vẫn dạy em là phải nhường nhịn bạn bè mà!  
+ - Cô: !?!? 
+','0');
+Khuyết điểm 
+Thầy giáo đánh thức Tí đang ngủ gật. 
+ - Thầy giáo: Tí em có biết em mắc khuyết điểm gì không? 
+ - Tí: Thưa thầy… ngủ không mắc màn…ạ! 
+ - Thầy giáo: ?!! 
+','0');
+Đứng nhất 
+- Con: Bố ơi! Hôm nay thầy bảo con đứng nhất lớp 
+- Bố: Giỏi! Thầy bảo con học giỏi nhất hả ? 
+- Con: Dạ không, thầy bảo con hay ngủ gật nhất, hay bị điểm kém nhất ạ. 
+- Bố: Sao cơ ??! 
+','0');
+Trái ngược 
+- MR : Lạ thật, sao bà trái ngược hòan tòan với em gái bà thế nhỉ? Thật hiền dịu, dễ thương, đầy nữ tính … 
+ - AD: Ông quá khen rồi đấy. 
+ - MR: Tôi đang nói về em gái bà chứ đã nói về bà đâu 
+ - AD: Gừ… 
+','0');
+Bố mẹ nói chuyện thế nào? 
+Cô giáo hỏi học sinh:  
+- Đề bài là "cuộc trò chuyện của bố mẹ em", tại sao em chỉ viết toàn lời của mẹ?  
+- Thưa cô, vì bố em chỉ gật đầu thôi ạ. 
+','0');
+Xe 4 bánh 
+SV1 gặp bạn là SV2 đang chạy xe máy đi học.  
+SV1 : Thời đại ngày nay SV mà còn chạy xe máy đi học.  
+SV2 ngạc nhiên hỏi lại : Thế mày đi bằng gì.  
+SV1 : Tao ấy à ? Phải ô tô 4 bánh trở lên mà còn tài xế đưa rước nữa chứ.  
+SV2 : Vậy à. Mày làm gì mà sang thế. Thế mày đi xe hiệu gì ?  
+SV1 : Vừa nói vừa co giò chạy  "Nào ta cùng Buýt" 
+','0');
+Hoạt động về đêm 
+- Cô giáo: Bo, em hãy cho cô biết con gì hoạt động về đêm? 
+- Bo: Thưa cô, con ma ạ! 
+- Cô giáo: ??! 
+','0');
+Hi sinh vì khoa học 
+Cô giáo dặn mỗi học sinh mang theo một số đồ dùng hiện đại trong gia đình đến lớp để minh họa cho buổi học sắp tới mang chủ đề: "Cuộc sống hiện đại". Hôm sau, cô giáo đề nghị từng em giới thiệu vật dụng mà mình mang theo.  
+- Wendy mang đến máy Sony Walkman.  
+- Kendy mang theo cái mở đồ hộp chạy điện và biểu diễn với một hộp thịt.  
+- Còn Jonny, em mang gì đến vậy? - cô giáo hỏi.  
+- Em mang máy trợ tim của ông nội ạ!  
+- Thôi chết, thế ông có mắng em không?  
+- Không ạ! Ông chỉ "ặc... ặc" hai tiếng thôi mà. 
+','0');
+Đông quá 
+- Thầy: Nhà em có mấy anh chị em? 
+- Dạ! Nhà em có 5 anh chị em. Đầu tiên là em, sau đó đến em em, em rồi đến em em em, rồi đến em em em em, cuối cùng là em em em em em ạ! 
+- Thầy: ?!? 
+','0');
+Không ai học cả 
+Tý vừa khóc mếu máo vừa chạy về nhà, mách với bố:  
+ - Thầy giáo trù đập con quá, bố ạ. Hôm nào thầy cũng gọi con lên trả bài. Thầy cố tình chọn những câu thật khó để con không trả lời được thì thầy phạt. Hôm nay con lại bị phạt cầm tai đứng ở cuối lớp.  
+ - Bố Tý tức lắm. Hôm sau ông ta dẫn Tý, hầm hầm vào gặp thầy: Tôi nghe cháu nó nói thầy trù đập nó ghê lắm. Tại sao thầy lại đối xử với con tôi như vậy?  
+ - Tôi trù đập con ông hồi nào đâu, nhưng ông xem, hôm nào tôi bảo nó lên bảng trả bài, nó cũng không trả lời được, kể cả câu hỏi dễ nhất.  
+ - Tôi lại nghe cháu nó nói thầy toàn chọn câu khó thôi. Đâu, thầy cho tôi một ví dụ xem nào.  
+ - Này nhé, hôm qua tôi hỏi nó tướng Trần Hưng Đạo chết hồi nào mà nó có trả lời được đâu.  
+ - Bố Tý ngẫm nghĩ một lúc, rồi đáp: Thôi, thầy cũng thông cảm cho cháu. Gia đình tôi là gia đình làm ăn buôn bán, lâu lâu coi báo thì xem tin tức chứ ai đi đọc cáo phó làm gì. 
+','0');
+Thời trẻ 
+Có 2 tên tù binh Taliban ngồi nói truyện về thời đi học của mình :  
+- Tên 1 : Thời tao còn đi học phải đổi trường mới liên miên. 
+ - Tên 2 : Vì sao thế ? 
+ - Tên 1 : Vì trường cứ xây xong là lại đánh bom lại sụp lại xây tiếp. 
+ - Tên 2 : Thế là bình thường. Lớp tao còn mỗi ngày thay một thầy mới cơ. 
+ - Tên 1 : Thế mày học lớp gì ? 
+ - Tên 2 : Đánh bom tự sát. 
+','0');
+Ao nào? 
+ - Ông nô: thưa thầy 
+ - Thầy: chuyện gì ? 
+ - Ông nô: Thằng con của thầy rớt xuống ao! 
+ - Thầy: Ao nào? Ao nhỏ hay ao lớn? 
+ - Ông nô: Ao nhỏ ạ 
+ - Thầy: thế thì không sao . ao nhỏ không có cá. May là nó không rơi xuống ao có cá...sợ chết cá của tao! 
+','0');
+Cổ điển và hiện đại 
+Giáo sư đại học nọ hỏi một sinh viên trong giờ văn học.  
+- Em hãy cho biết làm thế nào để phân biệt được một tác phẩm văn học cổ điển với một tác phẩm văn học hiện đại?  
+- Thưa giáo sư, trong tác phẩm văn học cổ điển ta chỉ thấy được nụ hôn của nhân vật từ trang 99 trở đi, còn ở tác phẩm văn học hiện đại thì họ đã có con với nhau ngay ở trang đầu tiên. 
+','0');
+Học sút 
+- Chị: Sao năm nay em lại học sút vậy? 
+ - Em: Vì thầy dạy đá bóng của em bảo thế ạ! 
+ - Chị: Sao lạ vậy? 
+ - Em: Thầy bảo muốn ghi được bàn vào lưới thì phải học sút ạ! 
+','0');
+Không thể tồn tại 
+Trong giờ hóa học, để minh họa cho hiện tượng oxy hóa, cô giáo hỏi Tèo:  
+ - Em hãy cho biết nếu chúng ta ném một thỏi sắt ra ngoài đường, sau một tuần thỏi sắt sẽ ra sao?  
+ - Dạ, nó sẽ biến mất ạ.  
+ Cô giáo ngạc nhiên hỏi:  
+ - Tại sao vậy?  
+ - Dạ, tại vì mấy người ve chai họ lượm liền chứ sao ạ.  
+ Cô giáo: ?! 
+','0');
+Cảnh giác 
+- Tại sao một con ngựa đau cả đàn ngựa lại không ăn cỏ? 
+ - Thưa cô vì đàn ngựa cảnh giác ạ. 
+ - Nghĩa là sao? 
+ - Thưa cô, đàn ngựa sợ ngộ độc thực phẩm! 
+ - ?! 
+','0');
+Sáng ý 
+- Thầy: Hôm qua giờ vẽ , sao em chỉ nộp giấy trắng hả ? 
+ - Trò : Em vẽ đấy chứ ạ. Nhưng chủ đề của em là “sữa tươi nguyên chất mà thầy!” 
+ - Thầy: xỉu. 
+','0');
+Thi vấn đáp 
+Một sinh viên phải trả thi trong hội đồng. Giáo sư hỏi:  
+ - Các-mác mất năm nào?  
+ - Các-mác đã mất! Một phút mặc niệm để tưởng nhớ đến Người!  
+ Cả hội đồng đứng dậy tưởng niệm một phút. Giáo sư hỏi tiếp:  
+ - Lê-nin mất năm nào?  
+ - Lê-nin mất, nhưng sự nghiệp của Người vẫn còn sống mãi. Ðể tưởng nhớ người lãnh đạo vĩ đại của giai cấp Cộng sản, 5 phút mặc niệm bắt đầu.  
+ Cả hội đồng đứng dậy, mặc niệm. Giáo sư thì thầm với hội đồng:  
+ - Thôi cho nó 3 (*) điểm đi, không nó bảo chúng ta hát "Quốc tế ca" thì chẳng có ai ở đây thuộc lời đâu! 
+','0');
+Đặt chân lên mặt trăng 
+- Thầy: trò Quỳnh cho thầy biết ai là người đặt chân đầu tiên lên mặt trăng? 
+ - Quỳnh: Thưa thầy, chú Cuội ạ! 
+','0');
+Hôn súc vật 
+Trong giờ học môn sinh vật, cô giáo giảng cho học sinh:  
+- Các em không được hôn súc vật, vì như vậy có thể bị lây nhiễm những bệnh nguy hiểm. Em nào có thể lấy cho cô một ví dụ?  
+Một học sinh xung phong: Thưa cô, dì em hay hôn con cún con của dì...  
+- Và chuyện gì đã xảy ra?  
+- Con cún đã lăn đùng ra chết. 
+','0');
+Bao nhiêu lần? 
+Giờ học, thấy Nam ngủ gật. 
+ - Cô: Cô có 1 sợi dây, cô muốn chia thành 2 đoạn, hỏi cô phải cắt mấy lần? 
+ - Nam: Thưa cô, em không biết ạ! 
+ - Cô: trời! Dễ thế mà em không biết sao? 
+ - Nam: Vì em không biết rằng con dao để cắt cùn hay bén nữa... 
+','0');
+5 cốc 
+- MR: Bà uống gì ngon thế? 
+ - AD: Tôi uống 5 cốc 
+ - MR: Trời! Uống gì 5 cốc ghê thế? 
+ - AD: Ko. 5 là ngũ, là “ngũ cốc” đó. 
+ - MR: trời!!! 
+','0');
+Viết cho chính mình 
+Trong lớp học, thày hỏi trò:  
+- Em đang viết gì vậy?  
+- Một bức thư cho chính mình ạ!  
+- Trong đó nói gì?  
+- Ngày mai em mới có thể biết được điều đó sau khi nhận thư. 
+','0');
+Khiêm tốn 
+- Cô: Em hãy cho cô biết: Khiêm tốn có phải là đức tính tốt không? 
+ - Tèo: Thưa cô tốt ạ! 
+ - Cô: Vậy em hãy cho 1 ví dụ 
+ - Tèo: Dạ, em có 10 cái sẹo nhưng nếu bạn hỏi em sẽ khiêm tốn trả lời là chỉ có 1 cái ạ! 
+ - Cô: trời ạ! 
+','0');
+Kết quả thi đại học 
+Sau kì thi đại học vừa qua, phóng viên có phỏng vấn một thí sinh đã tham dự kì thi này.   
+Phóng viên:  
+- Bạn đánh giá thế nào về kì thi năm nay?  
+Thí sinh:  
+- Năm ngoái em không may mắn cho lắm, em thiếu có nửa điểm (12/24 điểm).  
+Phóng viên (hơi choáng):   
+- Vậy là năm nay bạn tiếp tục?  
+Thí sinh:  
+- Vâng! Nói chung đề năm nay rất dễ, riêng về đề toán chỉ cần học thuộc đầy đủ công thức là có thể làm hết được. Cá nhân em làm sai đúng một câu ... những câu còn lại thì em ...không làm.  
+Phóng viên:  
+- !!!!! 
+','0');
+Phát triển 
+Sau 3 tháng hè, MR gặp lại AD 
+- MR: Ngày trước tôi hay gọi bà là “Hột mít”, bây giờ nhìn ra ko phải. 
+- AD (mắc cỡ): Vậy bây giờ tôi là gì ? 
+- MR: Ờ…quả mít. 
+- AD: (xách guốc lên)... 
+','0');
+Hai quả rưỡi 
+Hai người bạn lâu ngày gặp nhau. 
+ - Tí: Sao , dạo này cậu học toán khá chứ? 
+ - Tèo: Cũng không đến nỗi tồi. 
+ - Tí: Thế thì tớ có hai con gà mái đẻ ra năm trứng, vậy một con đẻ bao nhiêu trứng? 
+ - Tèo: Dễ ợt, một con đẻ hai quả rưỡi! 
+ - Tí: !? 
+','0');
+Tiến bộ 
+- Bố: Con trai, HKII có tiến bộ hơn HKI rồi. Kỳ 1 con là đứa xếp cuối cùng của lớp, nhưng kỳ 2 con đã tiến bộ hơn. 
+- Con: Con cảm ơn bố. Con cũng phải cảm ơn Linh nữa chứ! 
+- Bố: Sao vậy con? 
+- Con: Vì nhờ Linh HKII chuyển tới mà con được lên vị trí số 2 tính từ cuối sổ tính lên. 
+- Bố: Ốiii…ối 
+','0');
+Đây là cái gì? 
+Cô giáo dùng ngón tay trỏ chỉ trên bản đồ một điểm rồi hỏi:  
+- Đây là cái gì?  
+- Trò: Thưa cô, đấy là ngón trỏ của cô ạ... 
+','0');
+Tấm hay cám 
+Đẹt đang ngủ mơ màng bỗng: 
+ - GV: Đẹt qua câu chuyện vừa đọc em thấy ghét nhân vật nào. Tấm hay Cám vì sao? 
+ - Đẹt:(lắp bắp) Dạ…Dạ thưa cô em thấy ghét cám hơn vì ngày nào em cũng phải nấu “cám lợn” 
+ - GV: Trời đất!!! 
+','0');
+Đều phải đến 
+Buổi trưa đi học về , cậu bé vui vẻ nói với ba: 
+- Ba ơi! Chiều nay ba đến lớp để cô giải lại bài toán cô ra ngày hôm qua. 
+- Sao lại là ba? Ba có đi học đâu? 
+- Cô bảo tất cả ai làm sai bài toán này đều phải đến ạ. 
+','0');
+Bắt lỗi tận gốc 
+Thầy giáo nói với học sinh:  
+- Em hãy mời ông của em đến gặp tôi!  
+- Dạ, ý thầy muốn mời "ông bố" của em?  
+- Không, mời ông của em. Tôi muốn chỉ cho ông ấy xem con trai ông ấy đã phạm những lỗi gì trong vở bài tập về nhà của em. 
+','0');
+Càng được kính nể 
+- Giáo sư: Anh hãy cho biết nếu Sếchxpia còn sống đến nay thì liệu ông có được kính nể như trong thế kỉ XII không? 
+ - Sinh viên: Thưa thầy, theo em Sếchxpia vẫn được kính nể hơn, vì nếu ông sống đến nay thì ông đã hơn 400 tuổi. Chắc chắn sẽ được ghi vào danh sách Guinness vì tuổi thọ cao nhất ạ! 
+','0');
+Hợp tác 
+Ông chồng trò chuyện với vợ:  
+- Này em, từ ngày chúng ta dùng tiền để thưởng, con trai mình học khá hẳn lên, nhiều điểm 10 lắm, em thấy vui chứ?  
+- Theo em thì hẳn là nó đã đem tiền chia cho thày giáo một nửa thì có. 
+','0');
+Đi bộ 
+Ông chồng trò chuyện với vợ:  
+- Này em, từ ngày chúng ta dùng tiền để thưởng, con trai mình học khá hẳn lên, nhiều điểm 10 lắm, em thấy vui chứ?  
+- Theo em thì hẳn là nó đã đem tiền chia cho thày giáo một nửa thì có. 
+','0');
+Đi bộ 
+Thầy giáo: Ngày trước, tôi đã phải đi bộ 10 cây số để đến trường đấy.  
+Học trò: Lẽ ra, thầy nên dậy sớm hơn để không bị lỡ chuyến xe bus. 
+','0');
+Còn mấy cái? 
+- Tí: Đố cậu , trong một cái hộp có chin cái bánh. Đem chia cho chin người mỗi người một cái hỏi còn mấy cái ? 
+- Tèo: Hết , không còn cái nào . 
+- Tí: Sai rồi ! 
+- Tèo: Thế còn mấy cái ? 
+- Tí: Còn một cái … hộp ! 
+- Tèo: !!!? 
+','0');
+Cũng thế thôi 
+Vừa thấy Siêu đi học về, Nhân vội vã hỏi : 
+ - Tớ bị cúm, tiếc quá, ko được coi đá bóng. Kết quả ra sao, lớp mình thắng hay thua ? 
+ - Siêu (la to): Lớp mình thắng 2/1 
+ - Nhân: Lớp mình giỏi nhỉ! Còn bài kiểm tra Toán, Văn, hôm nay cô trả, tớ được mấy điểm? 
+ - Siêu: Cũng thế thôi! 
+','0');
+Không giở sách 
+Trong giờ kiểm tra, thấy Tèo quay bài. 
+ - Tí: Cậu không thấy thầy bảo cấm giở sách à? 
+ - Tèo: Thì tớ đang giở vở đấy chứ. 
+','0');
+Ai tìm ra châu Mỹ 
+Trong giờ địa lý, thầy giáo gọi Hà:  
+- Em hãy chỉ đâu là châu Mỹ?  
+- Thưa thầy, đây ạ! – Hà chỉ trên bản đò.  
+- Tốt lắm! Nào, thế bây giờ trò Bi hãy nói cho thầy biết ai đã có công tìm ra châu Mỹ?  
+- Thưa thầy, bạn Hà. 
+','0');
+Lầm 
+Tiết sinh vật 
+- Cô: Minh hãy cho cô biết: Hóoc môn là gì ! 
+- Minh (hỏang hốt): thưa cô …Hóoc môn là…1 huyện thuộc thành phố Hồ Chí Minh ạ ! 
+- Cô: !?!? 
+','0');
+Hỏi khó 
+- Lan: Tôi hỏi thật ông nhé! Mong ông đừng giận: Một tuần ông gội đầu mấy lần vậy ? 
+ - Hùng: Bà hỏi làm tôi khó trả lời quá. Đáng lẽ bà phải hỏi là: “Mấy tuần ông gội đầu một lần mới phải chứ?” 
+','0');
+Người mẫu chạy mất 
+Cô giáo gọi Thomas đứng lên khiển trách:  
+- Bài văn tả con chó của em chữ rất xấu, giấy bẩn và chưa làm xong, tại sao vậy?  
+- Thưa cô, em đã cố gắng ghì nó lại để tả, nhưng được một nửa thì nó cắn em và chạy mất ạ! 
+','0');
+Kiểm tra đúng kiểu mới được 
+- Thầy: Nam, lên trả bài! 
+ - Nam: Thưa thầy, em không thuộc bài ạ! 
+ - Thầy: Tại sao vậy? 
+ - Nam: Dạ, tại hôm nay thầy dặn kiểm tra giấy mà. 
+ - Thầy: Trời… 
+','0');
+Ai là kẻ ngốc??? 
+A hỏi B:  
+A: Theo cậu thì người như thế nào bị gọi là kẻ ngốc?  
+B: Là người cố gắng diễn đạt điều mình muốn nói nhưng người khác không hiểu. Cậu có hiểu không? A: KHÔNG!!!
+','0');
+Lý sự sinh viên nghèo 
+Một chàng sinh viên nghèo đói bụng quá không biết làm thế nào, túng làm liều chui vào một quán nước:  
+- Cho tôi một cái bánh giò.  
+- Có ngay! Chủ quán bê ra 1 cái bánh giò.  
+- Bánh bao thì giá cả thế nào?  
+- Như bánh giò.  
+- Thế thì đổi cho 1 cái bánh bao.  
+Chàng ăn xong cái bánh bao đứng dậy đi về.  
+- Ơ kìa! không trả tiền à?  
+- Tiền nào????  
+- Tiền bánh bao.  
+- Nhưng tôi đổi bằng bánh giò rồi cơ mà.  
+- Nhưng đã trả tiền bánh giò đâu  
+- Ơ hay! nhà chị buồn cười thật, Bánh giò nhà chị vẫn ở nguyên kia, tôi có ăn đâu mà bảo trả tiền. 
+','0');
+Môi hở răng lạnh 
+- Thầy: Câu tục ngữ: “ Môi hở răng lạnh” này khuyên ta điều gì? 
+ - Tèo nói ngay: Dạ, nó khuyên ta không nên cười vào mùa đông ạ! 
+ - Thầy: Trời! 
+','0');
+Chào cô! Bố em 
+Một học sinh nghỉ học không có lý do.  
+- Cô giáo hỏi:Tại sao hôm qua em không đi học?  
+- Thưa cô... vì em bị ốm ạ.  
+- Chậm nhất là ngày mai em phải đưa cô giấy của bố hoặc mẹ em.  
+- Vâng, thưa cô.  
+Hôm sau, học sinh đưa cô giáo tờ giấy có những dòng chữ sau đây: "Thưa cô giáo, con tôi nghỉ học hôm qua vì nó bị ốm. Chào cô. Bố em".  
+','0');
+Dụng cụ y tế 
+Cô giáo dặn học sinh:  
+ - Ngày mai các em đem tới lớp một đồ dùng có liên quan đến bảo vệ sức khoẻ.  
+ - Hôm sau, nhất loạt các học sinh đều mang mỗi người một đồ vật.  
+ - Tuấn, em đem gì tới?  
+ - Thưa cô, em mang băng gạc dùng để băng vết thương ạ.  
+ - Tốt lắm. Thế còn Tèo, em mang gì nào?  
+ - Thưa cô, lọ ê-te dùng để rửa sạch vết thương ạ.  
+ - Tý, em mang cái gì kia?  
+ - Dạ, bình ôxy ạ?  
+ - Em lấy ở đâu ra vậy?  
+ - Dạ, của bà em.  
+ - Thế bà nói gì khi em mang bình đi?  
+ - Dạ, bà chỉ thở dài và phều phào nói: “Không được mang đi”. 
+','0');
+Hiện tượng 
+Trong giờ học vật lý cô giáo hỏi học sinh :  
+- cô: các em cho cô biết hiện tuợng gì xảy ra khi cô ném cuc đá xuông hồ? (ý nói hiện tượng sóng)  
+- Tèo nhanh nhảu: thưa cô cục đá sẽ...lặn ạ!  
+- cô: &gt;&lt; 
+','0');
+Chiếc của tôi 
+Trong giờ học, giáo sư giảng cho sinh viên về hộp sọ:  
+- Đây là một mẫu sọ khỉ đặc biệt. Trong thành phố của chúng ta chỉ có hai chiếc. Một chiếc trong viện bảo tàng và một chiếc của tôi. 
+','0');
+Vốn tiếng Pháp của John 
+John trở về sau chuyến đi du lịch ở Pháp. Vì là người học môn tiếng Pháp rất giỏi nên điều đầu tiên các bạn cùng lớp hỏi thăm John là:  
+ - Ở bên ấy, cậu có bị lúng túng với vốn tiếng Pháp của mình không?  
+ - Ồ tớ thì không hề, nhưng người Pháp thì lúng túng lắm! 
+','0');
+Đi trễ 
+Đã vào tiết học, keli lúc này mới bước vào cổng trường. bác bảo vệ kêu lại và hỏi:  
+- Tại sao con đi trễ?         
+Keli:  
+- Ước mơ của con là làm thầy hiệu trưởng  
+Bảo vệ:  
+- Tôi hỏi tại sao lại đi trễ mà?  
+Keli:  
+- Vậy bác khi nào thấy thầy hiệu trưởng đi sớm chăng???? 
+','0');
+Không nghe thấy gì cả 
+Thầy giáo trẻ hỏi học sinh:  
+- Ai đã hái trộm táo của trường và còn làm gãy cả cành?  
+- (Im lặng)  
+- Thầy cao giọng hỏi đầy vẻ ám chỉ: Nào Peter, em có biết không?  
+- Thưa thầy, em ngồi ở cuối lớp nên chẳng nghe thấy thầy hỏi gì ạ.  
+- Em nói thế nào ấy chứ. Thôi được rồi, tôi sẽ có cách kiểm tra. Bây giờ em hãy thử hỏi tôi một câu gì đó, xem tôi có nghe rõ không?  
+- Vâng ạ, xin thầy hãy nói xem, hôm qua ai đã hôn chị gái em ở dưới gốc cây sồi già?  
+- Peter, em nói rất đúng. Thầy chẳng nghe thấy em hỏi gì cả. 
+','0');
+Giống đồng hồ 
+- Nam: Này, cái thằng An nói bà như cái đồng hồ vậy. 
+ - Giang: Ừ! Tính tôi thích chính xác mà. 
+ - Nam: Ko, nó bảo bà loanh quanh vớ vẩn rồi cũng quay lại từ đầu. 
+ - Giang: Hừ !!! 
+','0');
+Yêu cầu nhỏ 
+Thấy cậu học trò ngồi ngủ trong giờ học, thầy giáo nói: 
+ - Thầy nghĩ là ở đây không thích hợp để ngủ. Em có thể về nhà nằm ngủ được đấy! 
+ - Thưa thầy không sao đâu ạ, chỉ mong thầy và các bạn nói nhỏ một chút! 
+','0');
+Kỉ niệm 
+Hai áo dài có dịp về thăm lại trường cũ. 
+ - AD1: Mày biết ko, cây phượng này gắn với tao bao nhiêu là kỉ niệm đấy! 
+ - AD2: Tao lại thấy nhớ cây ổi nhà ông Minh hơn 
+ - AD1: Chắc cũng có nhiều kỉ niệm lắm hả? 
+ - AD2: Không, nhưng nó ngọt và thơm lắm, lại ở ngay cạnh trường. 
+','0');
+Làm sao đánh được? 
+Trong giờ đạo đức, cô giáo giảng bài:  
+- Người xưa nói: "Đánh kẻ chạy đi, không ai đánh người chạy lại".  
+Trò:  
+- Thưa cô, sao người xưa ngốc thế! Chạy lại mà không đánh thì chạy mất làm sao mà đánh?  
+Cô giáo: ??? 
+','0');
+Thơ vui mùa thi 
+Đi thi anh đã dặn dò: 
+“Phao” quay không trúng, thì chờ giấy quăng 
+Bao giờ giám thị quay ra 
+Bàn trên để ngỏ, là ta... “cóp” liền!  
+* 
+* *  
+Gỗ kiền ai đóng nên cày 
+Đầu anh “gỗ mít” nên “quay” thành thần! 
+Kém thì xơi một xơi hai 
+Đừng thấy học dốt quay tài mà mơ! 
+Dù ai buôn bán bề bề 
+Không bằng mở hiệu “copy” gần trường. 
+Mắt đau là tại hướng đình 
+Con thi không đỗ, tại phụ huynh kém “tờ”.  
+* 
+* *  
+Bước tới trường thi đủ mánh phòng 
+Lý, văn dưới áo, hóa bên hông 
+Lom khom giở quẻ, tiêu vài chú 
+Khám xét thu “phao”, lượm mấy chồng 
+Hết “thuốc”, đau lòng cô mếu máo 
+Tiếc bài, đớ miệng hỏi cầu mong 
+Tại ai nên nỗi bài để trống 
+Kết quả trời ơi: Không với không!  
+* 
+* *  
+Hôm qua vừa bán con bò 
+Cha đưa thằng Út xuống đò đi thi 
+Tiền xe, tàu hỏa phải chi 
+Vào ra hai bận, hết thì... tám trăm. 
+Nào lo cái khoản tiền ăn 
+Nào lo cái chỗ phòng nằm nghỉ ngơi. 
+Tiền khách sạn mỗi tuần thôi 
+Triệu tư đồng bạc đi toi một lèo. 
+Cơm phần, hủ tiếu, giò heo 
+Cho con tầm bổ chống chèo khoa thi 
+Thêm tiền đưa rước taxi 
+Cộng vô hai triệu, vị chi... tròm trèm. 
+Mấy lần làng nướng, làng nem 
+Mỗi ngày một cữ, mồi hèm “đưa cay”. 
+...Ngày về, nhẩm tính bàn tay 
+Thôi rồi năm triệu, nó “bay” số tròn. 
+Nghe qua, mẹ hĩm thoáng buồn 
+Đi thi gì muốn “đứt” luôn con bò! 
+“Bà ơi, bà khéo so đo” 
+Hết một con bò, có... đáng là bao 
+Sá gì cái chuyện tốn hao 
+Miễn con thi cử, đỗ cao... tui mừng”.  
+* 
+* * 
+','0');
+Ước gì 
+- Bố: Phiếu điểm của con đâu? 
+- Tí: Trước khi xem bố cho con 1 điều ước. 
+- Bố: Thế con ước gì? 
+- Tí: Ước gì khi xem xong phiếu điểm con không bị bố đánh! 
+- Bố: Hừ!! 
+','0');
+Tiết kiệm 
+- Thầy: Em hãy lấy ví dụ minh họa cho tiết kiệm 
+ - Trò: Thưa thầy! Em có 1 chậu nước, đầu tiên em rửa mặt, sau đó vo gạo, rửa bát và sau đó em mang tưới cây ạ. 
+ - Thầy: !!! 
+','0');
+Ai đúng? 
+Trong cuộc thi đố em, ngoài những câu hỏi về văn hóa còn có các câu hỏi về kiến thức. Giáo viên điều khiển chương trình chậm rãi bốc câu hỏi lên đọc:  
+- Theo em, người Việt Nam đầu tiên bay vào không gian là ai?  
+- Re…eeng! Re…eeng!  
+- Mời đội A.  
+- Thưa thầy, đó là Từ Thức lên không gian và đã lạc động Thiên Tai…  
+- Mời đội B.  
+- Thưa thầy, đó là Thánh Giống cưỡi ngựa bay trước ạ.  
+Bư đứng bên ngoài bổ sung:  
+- Trật lất, đó là chú Cuội đã bay lên cung trăng ngồi ôm gốc đa lâu lắm rồi chứ bộ!  
+Người điều khiển chương trình ??? 
+','0');
+5+1=? 
+Trong giờ số học, thầy giáo đã giảng thế nào là phép tính cộng. Sau khi giảng xong, thầy giáo đặt câu hỏi:  
+- Thêm 1 vào 5, sẽ là bao nhiêu?  
+- Học trò: im lặng.  
+- Thầy giáo nói tiếp: Thí dụ, tôi cho các em 5 con chim bồ câu, rồi sau đó thêm 1 con nữa. Các em sẽ có bao nhiêu bồ câu?  
+- Bảy!  
+- Thầy giáo ngạc hiên: Sao lại bảy? Tại sao?  
+- Cậu học sinh giải thích: Thưa thầy, ở nhà em đã có 1 con bồ câu rồi ạ! 
+','0');
+Mười điểm 
+- Quỷnh: Kỳ thi vừa rồi con đạt được điểm 10 bố ạ! 
+- Bố: Hả! Con làm bố ngạc nhiên quá. Thế điểm 10 của môn nào vậy con? 
+- Tí: Hì hì! Lúc nào bố củng không tin giỏi mà. Của cả năm môn cộng lại. 
+- Bố: Trời!!? 
+','0');
+Chữ đẹp 
+- Quỳnh: Chữ của cậu viết đẹp lắm Tí à! 
+- Tí: Thế hả? 
+- Quỳnh: Nhìn vô đó muốn... 
+- Tí: Muốn gì ? 
+- Quỳnh: Muốn mù 
+- Tí: (nổi giận) 
+','0');
+Đến đâu? 
+Trong giờ địa lý, cô giáo hỏi:  
+ - Em nào cho cô biết, nếu ta đào một cái lỗ thật sâu ở lớp học này (ý nói đến tâm trái đất), chúng ta sẽ đi đến đâu?  
+ - Phía cuối lớp học vọng lên tiếng trả lời: Thưa cô, chúng ta sẽ đi đến phòng kỷ luật ạ! 
+','0');
+Đã giải thích cho em 
+- Tại sao em đi học trễ, bỏ một tiết?  
+- Thưa thầy, sáng hôm nay em muốn đi câu, nhưng rồi ba em không cho phép ạ!  
+- Thầy chắc là ba em đã giải thích cho em hiểu: tại sao em phải đi học, mà không phải đi câu cá chứ?  
+- Có ạ. Ba em nói rằng mồi ít không đủ cho hai người câu ạ! 
+','0');
+Suy luận logic 
+Một lập trình viên trước khi đi ngủ đặt lên tủ 2 cái ly: 
+- Một ly có nước để phòng nếu đêm muốn uống nước. 
+- Một ly không có nước để dùng trong trường hợp không muốn uống. 
+','0');
+Cô giáo xinh nhưng không biết gì hết 
+Lần đầu tiên đến trường, Tomy khoe với bố mẹ:  
+ - Cô giáo con xinh lắm ạ.  
+ - Thế cô dạy con những gì?  
+ - Cô chẳng biết gì hết, chỉ luôn miệng hỏi: Ai nói cho cô biết nào? 
+','0');
+Tính từ 
+Trong giờ Văn, thầy đồ bảo Quỷnh: 
+ - Thầy: Quỷnh! Em hãy đặt cho thầy 1 câu trong đó có tính từ! 
+ - Quỷnh: Dạ! Thưa thầy là “Tính từ đầu năm đến nay em bị bốn con điểm 0” ạ! 
+ - Thầy: Ừ ! (nổi giận). Bây giờ thêm một con nữa là 5 con! 
+ - Quỷnh: Hu…hu!!! 
+','0');
+Chủ ngữ 
+Thầy giáo viết lên bảng câu: "Người đàn ông lang thang đã chết đói!". Rồi quay lại hỏi học sinh:  
+ - Này Tí, em cho thầy biết chủ ngữ ở đâu?"  
+ - Ơ.. Có lẽ dưới mồ ạ!!! 
+','0');
+Sâu gây hại 
+Trong lớp, cô đang giảng bài thấy Tí đang ngủ, cô gọi dậy… 
+ - Cô giáo: Tí! Một số lòai sâu có hại như sâu đục than, sâu cuốn lá…sâu gì nữa? 
+ - Tí: Thưa cô! Sâu răng ạ! 
+','0');
+Điểm cao 
+- Hôm nay làm kiểm tra con được mấy điểm? 
+- Thưa mẹ, 9 ạ! 
+- Giỏi lắm! 
+- Thêm 9 điểm nữa là đủ 10 ạ! 
+','0');
+Tác phong giám đốc 
+Cô giáo cho đề một bài tập làm văn :  
+ - Em nghĩ gì khi làm giám đốc ?  
+ - Tất cả học sinh cắm cúi viết, riêng một cậu ngồi khoanh tay, vẻ mặt bình thản.  
+ - Cô giáo hỏi: Tại sao em không làm bài ?  
+ - Cậu học trò đó thưa: Thưa cô, em đang chờ thư ký riêng tới. 
+','0');
+Các loại sâu 
+Trong lớp, cô đang giảng bài thấy Tí đang ngủ, cô gọi dậy…  
+Cô giáo: Tí! Một số lòai sâu có hại như sâu đục than, sâu cuốn lá…sâu gì nữa?  
+Tí: Thưa cô! Sâu răng ạ!  
+o O o  
+Thầy: Tục ngữ có câu: "Có công mài sắt có ngày nên kim". Các trò về suy nghĩ, phân tích và lấy ví dụ thực hành mai nộp cho thầy.  
+Thầy: Tèo! Em làm gì vậy?  
+Tèo: Thưa thầy. Con đang mài cây sắt để kịp ngày mai nộp cho thầy cái kim ạ.  
+o O o  
+Áo dài: nhìn ông là tôi đoán tương lai ông sẽ là bậc thầy về sử dụng phao cứu sinh.  
+Mày râu mặt mày rạng rỡ: Vậy ư!  
+Áo dài: Ừ thì cứ nhìn ông sử dụng phao trong giờ kiểm tra thì tui đoán ra ngay! 
+','0');
+Giống nhà khoa học 
+- Cậu Minh lớp tớ cũng có tính cách giống các nhà khoa học lừng danh thế giới. 
+ - Say mê với công việc à? 
+ - Không! Đãng trí! 
+ - !!! 
+','0');
+Cây nỏ thần 
+Thầy giáo đang giảng bài, thấy Long ngủ gật gọi dậy hỏi: 
+- Thầy: Em cho thầy biết ai đã lấy cắp nỏ thần của An Dương Vương? 
+- Long: Thưa thầy, em…em không lấy ạ! 
+- Thầy: Em nói gì vậy hả? Đứng đó! Lớp trưởng trả lời câu hỏi của thầy nào! 
+- LT: Thưa…thưa thầy, cũng không phải em ,mà cả lớp cũng không ai lấy đâu ạ, thầy cứ cho soát cặp sẽ rõ! 
+- Thầy:??? 
+********************* 
+Lớp trường về nhà, mặt buồn rười rượi, thấy thế cha LT hỏi: 
+- Cha: Con sao vậy? 
+- Con: Dạ, hôm nay thầy giáo hỏi cả lớp ai lấy cắp nỏ thần An Dương Vương, con nói cả lớp không ai lấy mà thầy không tin, còn nổi giận đùng đùng và bắt phải chép phạt 100 lần truyện Nỏ thần nữa! 
+********************* 
+Hôm sau, cha của LT đến lớp gặp thầy giáo nói: 
+-Thưa thầy, dù sao chuyện cũng đã rồi, thôi thì cái nỏ thần ấy giá bao nhiêu thầy nói để tui đền, chứ phạt vậy cũng tội mấy cháu. Mà …cháu An Dương Vương nào đó đi học mà mang theo nỏ thì cũng không nên chút nào! 
+','0');
+Lịch sử lặp lại 
+Một phụ huynh học sinh hỏi cô giáo đang dạy con trai mình:  
+ - Cô vui lòng cho biết con tôi học môn lịch sử ra sao? Khi còn đi học, tôi không thích môn này... và đã bị thi lại môn này đấy.  
+ - Cô giáo tế nhị trả lời: Thưa ông lịch sử đang lặp lại. - Cô giáo tế nhị trả lời 
+','0');
+Đa tài 
+AD khoe với MR: 
+- AD: Hôm qua tớ thắng cả hai đại kiện tướng cờ vua và bơi lội đấy. 
+- MR: Thật à? 
+- AD: Tớ thi đấu cờ vua với kiện tướng bơi lội. Và thi bơi lội với kiện tướng cờ vua. 
+- MR: ...Bó tay với cậu luôn!! 
+','0');
+Ngày nào cũng gặp 
+Trong tiết Sinh học. 
+ - Cô giáo: Trong các em, có ai đã từng gặp tắc kè chưa? 
+ - Nam (xung phong): Dạ! Tắc kè thì ngày nào em cũng gặp ạ! 
+ - Cô giáo: Thế em gặp nó ở đâu? Trên cây hay hốc núi đá? 
+ - Nam: Dạ, ở trong bình rượu của bố mẹ ạ! 
+','0');
+15-5=? 
+- Có 15 học sinh kéo nhau ra sông. Trong đó, 5 em bị bố mẹ cấm không được tắm sông. Vậy có mấy em xuống tắm?  
+- Cả lớp đồng thanh trả lời: Mười lăm! 
+','0');
+Trung gian 
+- Em: Anh làm hộ em bài toán này nha, khó quá ,em không làm được. 
+- Anh: Được, nhưng em phải đưa anh hai ngàn. 
+- Em: Nhiều vậy, một ngàn được không? 
+- Anh: Không được vì anh phải đưa bạn anh phân nửa để nó làm. 
+','0');
+Ấn tượng nhất 
+Thày giáo hỏi:  
+- Trong năm học vừa qua, nhân vật nào gây ấn tượng mạnh nhất đối với các em?  
+- Một học trò trả lời: Thưa thày, Napoleon ạ.  
+- Trò khác: Thưa thày, Lincoln ạ.  
+- Đến lượt John, cậu bé cứ ấp úng mãi: Thưa thày.... bố em ạ..., nhất là lúc bố xem điểm tổng kết cuối năm của em. 
+','0');
+Thưa cô, con muốn đi hát 
+Cô giáo dạy lớp mẫu giáo, thỉnh thoảng có bạn trai đến lớp thăm, sợ các học trò nhỏ vô tư nói năng “mất lịch sự”, cô bèn dặn các cháu:  
+- Hễ khi nào cô đang nói chuyện với người lớn, cháu nào muốn xin đi ra ngoài tiểu hay đại tiện thì phải nói: “Thưa cô, cho con đi hát” nghe không?  
+Thế là học trò nhí tuân theo lời cô dạy. Lâu dần thành thói quen, có khách đến là các trò chạy ra: “Thưa cô, cho con đi hát…”.  
+Có cu Tí học lớp cô giáo, chủ nhật nghỉ ở nhà với bố, nửa đêm cu Tí gọi bố dậy, quen mồm nói:  
+- Bố ơi, con muốn đi hát!  
+Bố giật mình, nhưng cũng nghiêng tai vào miệng cu Tí và bảo:  
+- Hát hả? Con hát nhỏ nhỏ vào lỗ tai của bố thôi nha, khuya rồi, cho mẹ con ngủ. 
+','0');
+Bốc hơi 
+Trong giờ Hóa... 
+- Thầy: Em nào cho thầy biết, 1 miếng sắt, 1 miếng đồng lớn để ngoài trời thì có hiện tượng gì? Trong lúc đó...Quỷnh khò khò 
+- Thầy: Quỷnh! Dậy trả lời mau! 
+- Quỷnh: Thưa thầy, chúng sẽ bị bốc hơi vì bàn tay của các bà lượm đồng nát ạ!!! 
+','0');
+Vẫn chưa đủ 
+Thi lịch sử. Petka trả bài trước, được 5 điểm (tối đa). Vova hỏi:  
+ - Câu hỏi thế nào?  
+ - Câu hỏi "Trình bày về cách mạng Nga", tao trả lời "Cách mạng Nga xảy ra lần đầu năm 1905, do Nga hoàng đàn áp nên thất bại, đến 1917 dưới sự lãnh đạo của đảng cộng sản mới thành công. Câu thứ 2 "Ai lãnh đạo cách mạng", trả lời " Chủ yếu là Lenin, ngoài ra còn có Stalin, Kirov". Câu thứ 3 "Nhận xét về điều kiện của cách mạng năm 1905", trả lời "Nhiều nhà nghiên cứu cho rằng điều kiện đã chín muồi, nhưng riêng tôi cho là chưa đủ".  
+ - Vova liền vào thi. Giáo sư hỏi: Anh sinh năm nào?  
+ - Em sinh năm 1905, nhưng do Nga hoàng đàn áp nên mãi đến năm 1917 duới sự lãnh đạo của đảng cộng sản mới thành công.  
+ - Bố mẹ em là ai?  
+ - Chủ yếu là Lenin ngoài ra còn có Stalin, Kirov.  
+ - Đồ ngu!  
+ - Nhiều nhà nghiên cứu cho rằng như vậy riêng em thấy chưa đủ.  
+','0');
+Cháy 
+- Cô giáo: Các em học hành thế này thì “cháy giáo án” của tôi rồi! 
+- Học sinh (nhanh miệng): Thưa cô! Có cần bình cứu hỏa không ạ? 
+- Cô giáo: Trời!?!? 
+','0');
+Đoán sai 
+- Tí: Vì sao cậu không rửa mặt? Đến sáng nay cậu ăn gì tớ đều có thể nhận ra! 
+ - Tèo: Cậu đoán thử xem sao? 
+ - Tí: Trứng gà! 
+ - Tèo: Cậu đóan sai rồi. Tớ ăn trứng gà từ sáng hôm qua! 
+ - Tí: Trời ơi là trời?!! 
+','0');
+Không chép hết 
+Trong giờ trả bài kiểm tra , thầy giáo nói với Hoa 
+- Thầy : Hoa, em đã chép bài của Hằng phải không? 
+- Hoa (đỏ mặt, đứng dậy): Dạ, em có chép nhưng không phải chép hết ạ. 
+- Thầy: thế chỗ nào em không chép ? 
+- Hoa: Dạ tên bạn ấy em không chép ạ. 
+- Thầy: ??? 
+','0');
+Không trống rỗng 
+Một hôm thầy giáo giảng cho học sinh về sự tuần hoàn của máu. Để làm cho chủ đề bài giảng rõ thêm, thầy giáo nói:  
+- Bây giờ các em nhìn đây, nếu tôi đứng bằng đầu, thì máu, như các em đã biết, sẽ dồn xuống đầu tôi và mặt tôi sẽ đỏ bừng lên.  
+- Các em học sinh đều đồng ý như vậy. Thầy giáo lại tiếp tục: ...Bây giờ cái điều mà thầy muốn biết là ở chỗ, làm sao mà thầy đứng mà máu lại không chảy vào chân của thầy được?  
+- Tất cả các em học sinh đều ngồi yên trong giây lát, rồi một học sinh bé nhỏ giơ tay và nói: Thưa thầy, vì chân của thày không trống rỗng như não! 
+','0');
+Chịu khó 
+- Mày chẳng chịu học bài gì cả, cứ nhìn bài tao… 
+ - Thế mày có biết để đọc được những chữ của mày đã là chịu khó lắm rồi ko ? 
+ - !? 
+','0');
+Bố than phiền về cô 
+Cô giáo bảo Tèo:  
+- Em học lười thì chỉ làm khổ bố mẹ thôi.  
+- Bố em lại bảo rằng, chính cô mới làm bố khổ, phải suy tư nhiều và thỉnh thoảng còn mất ngủ.  
+- Thoáng đỏ mặt, cô giáo hỏi lại: Em không đùa đấy chứ? Em nói rõ hơn đi?  
+- Vâng ạ, vì cô cho nhiều bài tập về nhà quá, bố em làm không xuể. 
+','0');
+Bắt quả tang 
+Trên đường đi học về, thấy Hoàng yên lặng khác thường, Dũng ngạc nhiên:  
+- Sao bồ có vẻ thất thần vậy?  
+- Hôm nay tớ có kiểm tra, nhưng tớ phải nộp giấy trắng!  
+- Chắc là không học bài nên phải nộp giấy trắng chớ gì.  
+- Không đâu, hôm kia tớ mơ là nghe thầy nói ai cóp-pi sẽ bị zerô, còn ai bắt quả tang bạn mình quay cóp sẽ được thưởng điểm 10. Cho nên hôm qua tớ không thèm học bài, để hôm nay ngồi canh xem có ai quay không cho khỏe, nào ngờ... 
+','0');
+Phải làm gì? 
+Trong giờ khoa học, cô giáo hỏi Tí: 
+ - Tí, em hãy cho cô biết mùa lạnh ta phải làm gì? 
+ - Tí đang lung bùng ngủ, giật mình đứng dậy: Thưa cô, mùa lạnh ta phải nổi da gà ạ! 
+ - Cô giáo: ?!? 
+','0');
+Chỉ bằng phân nửa thôi 
+- Còm nhom: Này, tớ thấy ngay cả đứa học giỏi nhất lớp mình cũng chỉ bằng phân nửa cậu thôi… 
+ - Béo ú: Thật thế ư? Cậu quá lời rồi! 
+ - Còm nhom: Thì đấy, so với cái Mỹ, cậu chả nặng gấp đôi và ngồi tốn chỗ gấp đôi nó còn gì! 
+','0');
+Vận tốc và thời gian 
+- MR1: Một người đi xe máy lúc 7 giờ, từ A đến B với vận tốc 129km. Hỏi anh ta đến B lúc mấy giờ? 
+- MR2: Anh ta đến B ít nhất 1 tuần sau. 
+- MR1: ??? 
+- MR2: Vì trước tiên anh ta phải vào bệnh viện. 
+','0');
+Thưởng cho nếu rớt 
+Hai thí sinh ngồi trước cổng trường chờ xem kết quả.  
+ - Bố tớ bảo nếu tớ thi đậu sẽ thưởng cho tớ chiếc xe đạp điện để đi học cho đỡ mệt...  
+ - Còn bố tớ lại bảo nếu tớ thi rớt sẽ mua cho tớ chiếc “Quây Anpha”...  
+ - Trời ơi! Sao đã quá vậy?  
+ - À... để tớ về chạy xe ôm đó mà...  
+ - !!! 
+','0');
+Đặt câu… 
+Trong lớp học, cô giáo:  
+- Cô có các số 0,1,2,3,4,5,6,7 các em đặt câu với tất cả các số trên cho cô….. 
+ Tí đứng lên: 
+ - Dạ thưa cô… 7 ngày, 6 đêm, khách sạn 5 sao, tầng 4, phòng 3, 2 người, 1 giường, 0 quần, 0 áo.  
+Cô giáo:!!??!! 
+Tèo đứng lên đối: 
+ - 7 ngày, 6 lần, 5 giờ, 4 phút, ngã 3, 2 thằng, 1 chai, 0 say, 0 về. 
+ Cô giáo (ngất)!!?? 
+','0');
+Chương trình dọn dẹp Registry 
+Công thức để tính tốc độ máy tính được cải thiện sau khi bạn chạy một chương trình dọn dẹp Registry là: z(n+y). Trong đó “n” là số chỉ mục Registry đã được dọn dẹp, y là tốc độ của CPU (được tính bằng gigahertz) và cuối cùng là z = 0 
+','0');
+Biện pháp phong toả cảng 
+Trong lớp học hải quân, thiếu uý ra bài tập cho tân binh John phải phong toả bến cảng của thành phố. 10 phút sau, John trở về báo cáo nhiệm vụ đã hoàn thành.  
+- Khá lắm! Hãy trình bày biện pháp mà cậu đã tiến hành.  
+- Thưa thiếu uý, rất đơn giản: Tôi đặt ở giữa bến cảng một quả thuỷ lôi rỗng với một điếu xì gà đang cháy ở bên trong. 
+','0');
+Nhận định về đề thi đại học năm nay 
+Sau đây là chia sẻ trên các trang báo mạng của một vài Thí Sinh vừa thi xong đại học năm nay: 
+- Zing.vn: Đề thi năm nay không khó. Em làm sai có một câu. Mấy câu kia em dell làm 
+- Vnexpress: đề thi năm nay nói chung là vừa sức các bạn và quá sức em :s 
+- Mương 14: Đề thi năm nay dễ, em làm bài theo 4 bước: đọc đề, chửi thề, xé đề, đi về 
+- dantri.vn: Đề năm nay 9 điểm nằm chắc trong tay em. Còn 1 điểm nằm trên giấy 
+- truyencuoihay.vn: Cám ơn bộ giáo dục đã chắp cánh ước mơ phục vụ quân đội của em 
+- Tiin.vn: Đề thi năm nay được đánh giá là vừa sức với giáo viên 
+- Cười vỡ bụng: Đề thi năm nay dễ, nhưng em đéo biết làm 
+- Facebook: Đề thi năm nay rất dễ......đọc....Công nhận chất lượng máy in tốt ghê 
+- Haivl.com: Đề thi năm nay dễ - 1 thí sinh vừa rớt Tốt Nghiệp chia sẻ 
+- Mp3.zing.vn : bài Trang Giấy Trắng của Phạm Trường có số lượt nghe tăng vọt 
+','0');
+Trứng 
+Người mẹ vừa đi chợ về. 
+ - Con: Mẹ có mua trứng về cho con ko đấy ? 
+ - Mẹ: Con đã có đầy vở rồi còn gì ? 
+ - Con: ??! 
+','0');
+Chuyện không thể được 
+Thầy giáo muốn gợi mở cho bé Môli biết ý nghĩa của chữ kỳ tích: "Em thử suy nghĩ xem, Môli, nếu có người từ trên đỉnh tháp rơi xuống mà chẳng hề suy suyển thì đó nghĩa là gì?"  
+ - "Ngẫu nhiên ạ!"  
+ - "Không phải thế" Thầy giáo lắc đầu.  
+ - "Môli! Nếu người đó lại rơi từ trên đỉnh tháp xuống nữa mà vẫn không bị thương thì gọi là..."  
+ - "May mắn ạ!"  
+ - "Em hiểu sai ý của thầy rồi". Thầy giáo vẫn kiên nhẫn tiếp tục: "Người này lần thứ ba leo lên đỉnh tháp cũng lại rơi xuống nhưng vẫn không hề bị thương thì phải gọi là..."  
+ - "Chà, em hiểu rồi. Như thế gọi là không thể được." Môli vùng kêu lên. 
+','0');
+Thích nhìn 
+- Lan: Chết rồi Nga ơi. Hình như thằng Hùng nó thích tớ hay sao ý! 
+- Nga: Sao bạn biết? 
+- Lan: Trong giờ nó cứ hay nhìn sang tớ. 
+- Nga: Thật à ? Vậy thì hay quá! 
+- Lan: Nhưng nó chỉ nhìn trong giờ kiểm tra thôi. 
+- Nga: (rầm) 
+','0');
+Giận dữ 
+Giờ tâm lý học. Giáo sư nói với sinh viên: Sự giận dữ của con người có thể được chia thành 3 mức độ. Sau đây tôi sẽ minh chứng cho các anh chị. 
+ Nói rồi giáo sư nhấc điện thoại lên và gọi số XXXXXXXX. 
+ - A lô cho tôi hỏi đây có phải nhà Vova không? 
+ - Xin lỗi ông nhầm rồi. (Đặt máy xuống)  
+Giáo sư nói: Đây là mức độ thứ nhất của sự giận dữ. Ngạc nhiên, tò mò.  
+Giáo sư nhấc điện thoại lên và quay lại số cũ (Redial) 
+ - A lô cho tôi gặp Vô Va. 
+ - Tôi đã nói là không có ai là Vova ở đây cơ mà. (Dập máy) 
+ - Giáo sư nói: Đây là mức độ thứ hai của sự giận dữ. Khó chịu, bực tức. Và bây giờ: mức độ thứ ba của sự giận dữ.  
+Lại nhấc điện thoại, lại Redial. 
+ - A lô. Vô Va đã về chưa? 
+ - Đáp lại là một tràng chửi rủa. 
+ - Giáo sư nói: Đây là mức độ thứ ba của sự giận dữ. Điên cuồng, không kiềm chế được. Còn bây giờ chúng ta sẽ xem chi tiết .... 
+ - Một sinh viên đứng dậy nói: Thưa thầy em còn biết một mức độ thứ tư của sự giận dữ.  
+Anh ta nhấc điện thoại, bấm Redial: A lô. Tôi là Vova đây. Có ai gọi cho tôi không? 
+','0');
+Chỉ còn một mình 
+- Tí: Bố ơi! Thầy hỏi 1 câu, cả lớp chỉ có mình con trả lời được đó bố! 
+- Bố: Con giỏi quá! Thế thầy hỏi câu gì? 
+- Tí: Dạ, thầy hỏi: “Ai dám lấy cây bút của tôi, mau trả!” 
+','0');
+Tại sao biết? 
+Trong giờ học: 
+- Thầy giáo: Con chuột chũi ham ăn. Mỗi ngày nó ăn một lượng bằng trọng lượng của nó. 
+- Tèo (giơ tay có ý kiến): Thưa thầy, nhưng làm con chuột chũi biết được trọng lượng của nó nặng bao nhiêu ạ? 
+- Thầy: !!?? 
+','0');
+Không cần phải ủi 
+- Mai: Sao mặt cậu thâm tím thế kia? Lại đánh nhau với ai rồi phải không? 
+ - Nam: Đánh nhau đâu, tớ với thằng Toàn chỉ “tranh luận” thôi. 
+ - Mai: Tranh luận gì mà khiếp thế? 
+ - Nam: Nó cố chấp lắm, tớ đã bảo 20/11 là ngày quốc tế thiếu nhi. Nó lại khăng khăng là ngày giải phóng thủ đô. Đã sai còn hay bảo thủ. 
+','0');
+Tiếc 
+Tại một kỳ thi của trường Y, giáo sư hỏi một sinh viên:  
+ - Với loại thuốc này anh sẽ cho bệnh nhân uống với liều lượng bao nhiêu  
+ - Dạ, ba thìa ạ.  
+ - Sau vài phút thấy thầy im lặng, thí sinh nọ dè dặt hỏi: Thưa giáo sư, em muốn trả lời lại.  
+ - Ông giáo sư nhìn đồng hồ rồi nói: Tôi rất lấy làm tiếc, bệnh nhân đó đã tắt thở. 
+','0');
+Nhắn tin 
+Đen: Ê mày, mai nhớ đem trả tao cuốn truyện  
+Nâu: Ờ. Mà tao hay quên. Mày nhắn tin nhắc tao đi!  
+Đen: Cũng được. Khoảng mấy giờ?  
+Nâu: 2 giờ chiều!  
+Đen: Ok. Vậy 1 giờ chiều mai mày nhắn tin nhắc tao nhắn mày nha :D  
+Nâu: (bức tai bức tóc) 
+','0');
+Cá biệt 
+- Bố: Ở lớp , con thường làm gì để phải mang biệt danh là học sinh cá biệt hả ? 
+ - Con: Dạ , con không làm gì ạ ! 
+ - Bố: !? 
+','0');
+Bí quyết học toán 
+Bạn A bảo bạn B: Cậu muốn có “bí quyết” học toán nhớ lâu không ? 
+ - B: Làm cách nào , chỉ cho mình với . 
+ - A: Dễ thôi ! Cậu chịu khó “sưu tầm” là được 
+ - B: Sưu tầm thế nào ? 
+ - A: Phải tìm vật thật, ví dụ: Hình tròn thì tìm: cam, nho, bưởi, táo…, còn hình vuông, hình chữ nhật thì tìm: Bánh trung thu, kẹo cao su…Các thứ ấy luôn để bên mình mọi lúc mọi nơi thì cậu sẽ nhớ lâu thôi . 
+ - B: Ồ! Hay thật! Thế còn đọan thẳng chắc phải nhờ đến “roi mây” của bố mẹ và “thước kẻ” của cô giáo để nhớ lâu phải hông nè? 
+','0');
+Chào hỏi 
+- Cô: em muốn nói lời chào hỏi thì em nói gì trước? 
+ - Tèo: Thưa cô, là chào bạn ạ! 
+ - Cô: Rồi tiếp theo là gì? 
+ - Tèo: là bấm Enter 
+','0');
+Không dùng tài liệu 
+Đi học về, Tý khoe với mẹ : 
+ - Tý: Mẹ ơi! Hôm nay kiểm tra 1 tiết, lớp con không ai xem tài liệu và quay bài của nhau cả. 
+ - Mẹ: Tốt! Thế kiểm tra môn gì vậy? 
+ - Tý: Dạ , kiểm tra môn thể dục, môn nhảy cao ạ ! 
+ - Mẹ: Trời!!! 
+','0');
+Sao còn chưa thả? 
+Thầy đồ gõ thước : - Các em im lặng, im lặng đến độ nghe thấy tiếng ruồi bay cho tôi!  
+- Tất cả nghe lời thầy, không dám nhúc nhích.  
+Bỗng Quỷnh lên tiếng: Dạ, sao nãy giờ thầy còn chưa thả ruồi ra!!! 
+','0');
+Chữ ký của thầy 
+Kiểm tra đầu giờ, Jonhny không thuộc bài, thầy giáo quá bực bèn phê vào sổ liên lạc mấy chữ: Đồ con khỉ!  
+ - Nhận lại sổ từ tay thầy, Jonhny phụng phịu: Thưa, thầy mới ký mà chưa cho điểm ạ! 
+','0');
+Người đàn ông chân chính 
+- Tý này, nói bố nghe, hôm nay con được điểm mấy?  
+- Thưa bố, những người đàn ông chân chính thì không bao giờ thèm để ý đến những chuyện... vặt vãnh ấy! 
+','0');
+Tết kiến 
+Trong giờ học, cô đang giảng bài.Thấy có một học trò đang loay hoay đùa giỡn. 
+- Cô liền hỏi: Em cho cô biết: "Tết kiến có nghĩa là gì?" 
+- Thưa cô, là khi đó kiến sẽ đi ăn Tết,đi chơi thoải mải. 
+- Hả??? 
+','0');
+Noi theo gương tốt 
+Cô giáo lớp 1 dạy học sinh:  
+ - Chúng ta cần phải phát động phong trào làm việc tốt. Từ mai trở đi, khi đến lớp mỗi em phải kể cho cô nghe một việc tốt nhé!  
+ - Thưa cô vâng ạ!  
+ - Ngày hôm sau: Em nào có việc tốt kể cho cô nghe.  
+ - Dạ thưa cô  
+ - Một em đứng lên: Hôm nay em dẫn một bà già qua đường ạ!  
+ - Tốt, tất cả lớp phát huy học tập theo bạn nhé!  
+ - Ngày hôm sau: Nào, thế hôm nay những ai đã làm việc tốt?  
+ - Dạ thưa cô, hôm nay chúng em học tập bạn hôm qua và đều đã làm việc tốt ạ! - cả lớp đứng lên đồng thanh nói.  
+ - Vậy là rất tốt. Các em đã làm những việc gì nào?  
+ - Chúng em cùng dẫn một bà già qua đường ạ.  
+ - Tốt lắm! Nhưng tại sao có một bà già mà cả lớp cùng dẫn qua đường hả?  
+ - Dạ thưa cô, vì bà ấy... không thích qua đường ạ. 
+','0');

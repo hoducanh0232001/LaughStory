@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:background="@color/colorBGSplash">
+    <LinearLayout
+        android:paddingTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@color/white">
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_image_circle"
+            android:layout_marginStart="25dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TRUYỆN CƯỜI 24/7"
+            android:textSize="18dp"
+            android:textStyle="bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginStart="20dp"
+            android:textColor="@color/colorBGSplash"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="😂☺😍😛😝😜"
+            android:layout_marginTop="34dp"
+            android:layout_marginStart="-155dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cập nhật ngày 8/8/2022"
+            android:layout_marginTop="57dp"
+            android:layout_marginStart="-105dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bản quyền của DucAnh"
+            android:layout_marginTop="77dp"
+            android:layout_marginStart="-150dp"/>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_menu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/grayLight"
+        tools:listitem="@layout/item_topic">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

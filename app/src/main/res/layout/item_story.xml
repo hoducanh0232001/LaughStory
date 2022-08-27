@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/ln_story"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+    <TableRow
+        android:id="@+id/tb_story"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/img_story"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:rotation="25"
+            android:src="@drawable/ic_face"
+            app:tint="@color/colorBGSplash" />
+
+        <TextView
+            android:id="@+id/tv_story"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-light"
+            android:paddingStart="10dp"
+            android:singleLine="true"
+            android:text="Ai nịnh ai"
+            android:textColor="@color/colorBGSplash"
+            android:textSize="18dp" />
+
+    </TableRow>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#EAE8E8" />
+
+</LinearLayout>
