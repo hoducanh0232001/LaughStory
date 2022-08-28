@@ -50,6 +50,8 @@ public class MenuFragment extends BaseFragment<MenuViewModel> implements TopicAd
         topicAdapter.setOnItemClick(this);
         recyclerView.setAdapter(topicAdapter);
 
+
+        //click btn menu
         drawerLayout = findViewById(R.id.drawer);
         actBarHome = findViewById(R.id.act_bar_home);
         imgActBarHome = findViewById(R.id.iv_menu);
@@ -91,9 +93,8 @@ public class MenuFragment extends BaseFragment<MenuViewModel> implements TopicAd
         GoToDeTail(story);
     }
     public void GoToDeTail(Story story){
-        mCallBack.onCallBack(KEY_SHOW_DETAIL,story);
+        mCallBack.onCallBack(KEY_SHOW_DETAIL,story,listStory);    //callback là interface để set lại khả năg thực hiện
     }
-
 
     public void initListStory(String fileName){
         listStory = new ArrayList<>();
@@ -113,10 +114,7 @@ public class MenuFragment extends BaseFragment<MenuViewModel> implements TopicAd
             String content = text.substring(start+1);
             //  Toast.makeText(this,"Name"+name,Toast.LENGTH_LONG).show();
             listStory.add(new Story(name,content));
-
-
         }
-
 
     }
 

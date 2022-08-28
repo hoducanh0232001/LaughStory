@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_m003_name"
+        android:fontFamily="sans-serif-thin"
+        android:textSize="20dp"
+        android:textColor="@color/colorBGSplash"
+        android:padding="10dp"
+        android:text="Ai nịnh ai"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <ScrollView
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:fontFamily="sans-serif-thin"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:textColor="@color/black"
+            android:padding="10dp"
+            android:text="Một anh nhà giàu hỏi người nghèo:
+\n-Tôi giàu anh có nịnh tôi không?
+Người nghèo:
+\n-Ông giàu mắc mớ gì đến tôi mà tôi phải nịnh ông?
+\nNhà giàu:
+\n- Nếu tôi cho anh nửa gia tài, anh có nịnh tôi không?
+Người nghèo:
+\n- Lúc đó tôi giàu bằng ông rồi việc gì tôi phải nịnh ông.
+\nNhà giàu:
+\n- Nếu tôi cho anh cả gia tài, anh  có nịnh tôi không?
+\nNgười nghèo:
+\n- Chắc chắn lúc đó ông phải nịnh tôi. "
+            android:id="@+id/tv_content"
+            android:lineSpacingExtra="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+    </ScrollView>
+</LinearLayout>

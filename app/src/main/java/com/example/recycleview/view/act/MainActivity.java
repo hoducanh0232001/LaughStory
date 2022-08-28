@@ -32,7 +32,7 @@ public class MainActivity extends BaseActivity<MainViewModel> implements OnActio
 
     @Override
     protected void initView() {
-        SplashFragment splashFragment = new SplashFragment();
+        SplashFragment splashFragment = new SplashFragment();   // gọi ra splash fragment (khởi tạo)
         splashFragment.setmCallBack(this);
         showFragment(R.id.container_view,splashFragment,false);
     }
@@ -51,6 +51,8 @@ public class MainActivity extends BaseActivity<MainViewModel> implements OnActio
                 DetailFragment detailFragment = new DetailFragment();
                 Story story = (Story) listObject[0];
                 detailFragment.setStory(story);
+                List<Story> listStory = (List<Story>) listObject[1];
+                detailFragment.setListStory(listStory);
                 showFragment(R.id.detail_story,detailFragment,true);
 
         }
